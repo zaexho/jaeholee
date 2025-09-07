@@ -1,0 +1,57 @@
+# macOS
+.DS_Store
+
+# Indexhibit 캐시/임시
+ndxzsite/cache/**
+ndxzsite/tmp/**
+
+# 업로드(원치 않으면 포함하지 않기)
+files/gimgs/**
+files/dimgs/**
+files/backup/**
+
+# 민감 설정(DB 접속 정보 등)
+ndxzsite/config/config.php
+ndxzstudio/config/config.php
+ndxzsite/config/db.php
+ndxzstudio/config/db.php
+
+# 로그
+*.log
+
+# macOS
+.DS_Store
+
+# Indexhibit 캐시/임시
+ndxzsite/cache/**
+ndxzsite/tmp/**
+
+# 업로드(원치 않으면 포함하지 않기)
+files/gimgs/**
+files/dimgs/**
+files/backup/**
+
+# 민감 설정(DB 접속 정보 등)
+ndxzsite/config/config.php
+ndxzstudio/config/config.php
+ndxzsite/config/db.php
+ndxzstudio/config/db.php
+
+# 로그
+*.log
+# Ignore htaccess
+/.htaccess
+
+# Ignore user uploaded images and files
+files
+
+# Ignore user config, cache
+ndxzsite/cache
+ndxzsite/config/config.php
+
+ndxzstudio/license.txt
+ndxzstudio/readme.txt
+
+ndxz-studio
+
+*.DS_Store
